@@ -47,10 +47,12 @@ This is related to a pointer as well as heap memory. As we have already discusse
 
 ![1731861307539](image/Readme/1731861307539.png)
 
-Here we have a pointer and I have allocated heap memory of some size. Then after some time, we don’t need this memory. So, we simply say ‘p = NULL’, then point P will not be pointing to that memory.We should not do this unless we have explicitly deleted the memory.So first of all, say delete ‘p’ then only, make ‘p’ as null.
+**Here we have a pointer and I have allocated heap memory of some size. Then after some time, we don’t need this memory. So, we simply say ‘p = NULL’, then point P will not be pointing to that memory.We should not do this unless we have explicitly deleted the memory.**
+
+So first of all, say delete ‘p’ then only, make ‘p’ as null.
 
 ![1731861325873](image/Readme/1731861325873.png)
 
-Now here is one more thing that we can write ‘p = 0’ also or write ‘p = nullptr‘.
+**Now here is one more thing that we can write ‘p = 0’ also or write ‘p = nullptr‘.**
 
 In modern C++ it is suggested to use ‘nullptr’. You should avoid using null. So back to this memory leak, the conclusion is you must delete the memory when you are not using it before making a pointer to null. Now let us move to the third problem which is the dangling pointer.
