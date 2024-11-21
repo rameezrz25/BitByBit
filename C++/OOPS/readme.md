@@ -1,4 +1,3 @@
-
 # **Object-Oriented Programming (OOP)**
 
 **OOPs** stands for **Object-Oriented Programming Structure**, a programming paradigm centered around the concept of **objects**.
@@ -11,6 +10,49 @@ A **class** is essentially a template that defines:
 
 - **Member data**: The values or attributes associated with an object.
 - **Behaviors**: Functions or methods that define what the object can do.
+  ds that define what the object can do.
+
+### Example of a Class and Object in C++
+
+Here is a simple example to illustrate the concept of classes and objects in C++:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+// Define a class named Car
+class Car {
+public:
+   // Member data
+   string brand;
+   string model;
+   int year;
+
+   // Member function
+   void displayInfo() {
+      cout << "Brand: " << brand << endl;
+      cout << "Model: " << model << endl;
+      cout << "Year: " << year << endl;
+   }
+};
+
+int main() {
+   // Create an object of the Car class
+   Car car1;
+
+   // Assign values to the object's attributes
+   car1.brand = "Toyota";
+   car1.model = "Corolla";
+   car1.year = 2020;
+
+   // Call the member function to display the car's information
+   car1.displayInfo();
+
+   return 0;
+}
+```
+
+In this example, `Car` is a class with three member data attributes (`brand`, `model`, and `year`) and one member function (`displayInfo`). The `car1` object is an instance of the `Car` class, and its attributes are assigned values before calling the `displayInfo` function to print the car's details.
 
 When an object is instantiated, it inherits the data and functions outlined in its class. OOP primarily focuses on internal design, safeguarding data from improper use or mishandling.
 
