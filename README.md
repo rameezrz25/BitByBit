@@ -2,8 +2,6 @@
 
 Welcome to your revision notes! This document will help you review key concepts in **Operating Systems (OS)**, **C++**, and **LeetCode (LC)** problems.
 
-> **Disclaimer:** These notes are completely generated using Gen AI with the help of myself.
-
 ---
 
 ## 📖 **Table of Contents**
