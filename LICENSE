@@ -1,21 +1,84 @@
-MIT License
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Copyright (c) 2024 RAMEEZ RAZA
+Copyright (C) <year>  <your name or organization>
+Copyright holders: <name(s) of copyright holders>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+                            Preamble
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The GNU General Public License is a free, copyleft license for software
+and other kinds of works. The licenses for most software and other
+written material are designed to take away your freedom to share and
+change the works. By contrast, the GNU General Public License is intended
+to guarantee your freedom to share and change all versions of a program
+— to make sure it remains free software for all its users. We, the Free
+Software Foundation, use the GPL for most of our software; it applies also
+to any other work released this way by its authors. You can apply it to
+your programs, too.
+
+When we speak of free software, we are referring to freedom, not price.
+To understand the concept, you should think of "free" as in "free speech,"
+not as in "free beer".  
+
+To protect your rights, we need to prevent others from denying you these
+rights or asking you to surrender the rights. Therefore, you have to
+accept that you must also include a copy of this GPL license along with
+your software, and you must make any modified versions also be free.
+
+                           TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  “This License” refers to version 3 of the GNU General Public License.
+
+  “The Program” refers to any work of authorship licensed under this
+  License. Each licensee is addressed as “you”.
+
+  “The Modified Program” refers to any work that is based on the Program
+  or on the work being combined with it. It can include translations, or
+  modifications to make it run on different platforms. The term “Program”
+  can be used to refer to either the original program or any modified
+  version.
+
+  1. Source Code.
+
+  The source code for a program is the preferred form of the work for making
+  modifications to it. For an executable, complete source code includes
+  source code for all modules it contains, and for a library, complete
+  source code includes the source code for all modules it uses.
+
+  2. Basic Permissions.
+
+  You can copy, modify, and distribute the Program, as long as you comply with
+  the conditions of this License. You can even use the Program in proprietary
+  applications, but if you make changes to the Program, you have to make the
+  modified version available under this License.
+
+  3. Copyleft.
+
+  The modified Program must also be licensed under this License. The terms
+  “modified Program” and “Program” include any derivative work based on the
+  original Program.
+
+  4. Distribution.
+
+  When distributing the Program or any modified versions, you must make sure
+  the program is accompanied by a copy of the GPL-3.0 License, as well as
+  providing access to the source code of your modifications.
+
+  5. No Warranty.
+
+  There is no warranty for this software. It is distributed “as-is”,
+  and the author(s) or copyright holder(s) are not liable for any damage
+  or issues arising from its use.
+
+  6. Termination.
+
+  If you violate the terms of the GPL, your rights under this License will
+  automatically terminate, but you may be reinstated if the violation is cured
+  within 30 days of notice.
+
+For full text, you can visit: https://www.gnu.org/licenses/gpl-3.0.html
