@@ -16,7 +16,6 @@ This document provides a quick reference for commonly used functions and operato
   variable /= value;
   ```
 
-
 ## ✨ **General Functions**
 
 ### **2. `isalnum()`**
