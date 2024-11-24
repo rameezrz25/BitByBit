@@ -1,6 +1,3 @@
-
----
-
 # 🌟 **Object-Oriented Design (OOD): A Beginner’s Guide** 🌟
 
 **Object-Oriented Design (OOD)** is the process of planning a system of **interacting objects** to solve a software problem. It involves creating classes, defining their relationships, and designing how they will work together.
