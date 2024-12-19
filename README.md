@@ -1,5 +1,4 @@
 # 🌟 BitByBit 🌟
-
 ## 📖 About
 
 This repository provides notes and examples on C++ concepts, design principles, operating systems, and Unix commands. It is structured for easy navigation and quick reference to aid in software development best practices.
@@ -96,4 +95,4 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
