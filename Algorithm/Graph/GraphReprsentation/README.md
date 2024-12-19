@@ -61,9 +61,9 @@ int main() {
 }
 ```
 
-## Explanation
+## 📚 Explanation
 
-### Adjacency List
+### 📋 Adjacency List
 
 An adjacency list is an array of lists. The array size is equal to the number of vertices. Each element of the array is a list that contains the neighbors of the vertex.
 
@@ -76,7 +76,7 @@ An adjacency list is an array of lists. The array size is equal to the number of
 4: 0 1 3 
 ```
 
-### Adjacency Matrix
+### 🗺️ Adjacency Matrix
 
 An adjacency matrix is a 2D array of size `V x V` where `V` is the number of vertices. A cell `adjMatrix[i][j]` is `1` if there is an edge from vertex `i` to vertex `j`, otherwise `0`.
 
@@ -89,7 +89,7 @@ An adjacency matrix is a 2D array of size `V x V` where `V` is the number of ver
 1 1 0 1 0 
 ```
 
-## How to Run
+## ▶️ How to Run
 
 1. Copy the code into a file named `graph_representation.cpp`.
 2. Compile the code using a C++ compiler:
